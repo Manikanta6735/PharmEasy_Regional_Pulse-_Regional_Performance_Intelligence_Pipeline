@@ -1,0 +1,3 @@
+{"timestamp": "2026-09-30T11:55:19.728114+00:00", "run_id": "RUN-2026-09", "region": "Guntur", "decision": "approve", "reviewer_note": "Approved after verifying SQL output.", "downstream_allowed": true}
+{"timestamp": "2026-09-30T11:55:19.728510+00:00", "run_id": "RUN-2026-09", "region": "Guntur", "decision": "edit", "reviewer_note": "Edited wording for clarity.", "downstream_allowed": false}
+{"timestamp": "2026-09-30T11:55:19.729103+00:00", "run_id": "RUN-2026-09", "region": "Guntur", "decision": "reject", "reviewer_note": "Rejected pending further audit.", "downstream_allowed": false}
